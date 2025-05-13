@@ -1,6 +1,6 @@
 # Projeto Análise de Dados
 
-1. Fonte de dados: definir a origem da fonte de dados. Dataset escolhido: https://www.kaggle.com/datasets/jayaantanaath/student-habits-vs-academic-performance?resource=download
+1. Fonte de dados: definir a origem da fonte de dados. Dataset escolhido: https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis?resource=download
 
 2. Criar 01 job (script) ETL que pega a fonte de dado e armazena em um lugar de Staging (pasta local, google drive, S3, etc)
 
